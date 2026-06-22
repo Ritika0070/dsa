@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/Ritika0070/dsa/tree/master/0182-duplicate-emails) |
+| [1045-customers-who-bought-all-products](https://github.com/Ritika0070/dsa/tree/master/1045-customers-who-bought-all-products) |
 ## Math
 |  |
 | ------- |
