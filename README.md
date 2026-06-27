@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0182-duplicate-emails](https://github.com/Ritika0070/dsa/tree/master/0182-duplicate-emails) |
 | [0184-department-highest-salary](https://github.com/Ritika0070/dsa/tree/master/0184-department-highest-salary) |
+| [0185-department-top-three-salaries](https://github.com/Ritika0070/dsa/tree/master/0185-department-top-three-salaries) |
 | [1045-customers-who-bought-all-products](https://github.com/Ritika0070/dsa/tree/master/1045-customers-who-bought-all-products) |
 ## Math
 |  |
