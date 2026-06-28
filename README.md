@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ritika0070/dsa/tree/master/0001-two-sum) |
+| [0457-circular-array-loop](https://github.com/Ritika0070/dsa/tree/master/0457-circular-array-loop) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Ritika0070/dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Ritika0070/dsa/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ritika0070/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Ritika0070/dsa/tree/master/0451-sort-characters-by-frequency) |
+| [0457-circular-array-loop](https://github.com/Ritika0070/dsa/tree/master/0457-circular-array-loop) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Ritika0070/dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## String
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Ritika0070/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0141-linked-list-cycle](https://github.com/Ritika0070/dsa/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Ritika0070/dsa/tree/master/0202-happy-number) |
+| [0457-circular-array-loop](https://github.com/Ritika0070/dsa/tree/master/0457-circular-array-loop) |
 | [0876-middle-of-the-linked-list](https://github.com/Ritika0070/dsa/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ritika0070/dsa/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Dynamic Programming
