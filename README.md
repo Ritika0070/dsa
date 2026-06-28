@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Ritika0070/dsa/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Ritika0070/dsa/tree/master/0202-happy-number) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Ritika0070/dsa/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2544-alternating-digit-sum](https://github.com/Ritika0070/dsa/tree/master/2544-alternating-digit-sum) |
 ## Binary Search
 |  |
 | ------- |
