@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ritika0070/dsa/tree/master/0005-longest-palindromic-substring) |
+| [0008-string-to-integer-atoi](https://github.com/Ritika0070/dsa/tree/master/0008-string-to-integer-atoi) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ritika0070/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Ritika0070/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Ritika0070/dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
