@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Ritika0070/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Ritika0070/dsa/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Ritika0070/dsa/tree/master/0451-sort-characters-by-frequency) |
+| [0520-detect-capital](https://github.com/Ritika0070/dsa/tree/master/0520-detect-capital) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Ritika0070/dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ritika0070/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Ritika0070/dsa/tree/master/3121-count-the-number-of-special-characters-ii) |
