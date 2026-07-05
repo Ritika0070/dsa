@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Ritika0070/dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ritika0070/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Ritika0070/dsa/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3163-string-compression-iii](https://github.com/Ritika0070/dsa/tree/master/3163-string-compression-iii) |
 ## Sorting
 |  |
 | ------- |
