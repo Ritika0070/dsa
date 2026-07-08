@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-customers-who-bought-all-products](https://github.com/Ritika0070/dsa/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/Ritika0070/dsa/tree/master/1070-product-sales-analysis-iii) |
 | [1321-restaurant-growth](https://github.com/Ritika0070/dsa/tree/master/1321-restaurant-growth) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/Ritika0070/dsa/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/Ritika0070/dsa/tree/master/1341-movie-rating) |
 | [1934-confirmation-rate](https://github.com/Ritika0070/dsa/tree/master/1934-confirmation-rate) |
 ## Math
