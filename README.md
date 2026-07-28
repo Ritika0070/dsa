@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ritika0070/dsa/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Ritika0070/dsa/tree/master/0015-3sum) |
 | [0457-circular-array-loop](https://github.com/Ritika0070/dsa/tree/master/0457-circular-array-loop) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Ritika0070/dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ritika0070/dsa/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ritika0070/dsa/tree/master/0015-3sum) |
 | [0451-sort-characters-by-frequency](https://github.com/Ritika0070/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Ritika0070/dsa/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Heap (Priority Queue)
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ritika0070/dsa/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/Ritika0070/dsa/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/Ritika0070/dsa/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Ritika0070/dsa/tree/master/0202-happy-number) |
 | [0443-string-compression](https://github.com/Ritika0070/dsa/tree/master/0443-string-compression) |
