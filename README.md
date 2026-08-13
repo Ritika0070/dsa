@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0511-game-play-analysis-i](https://github.com/Ritika0070/dsa/tree/master/0511-game-play-analysis-i) |
 | [0550-game-play-analysis-iv](https://github.com/Ritika0070/dsa/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Ritika0070/dsa/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Ritika0070/dsa/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Ritika0070/dsa/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [1045-customers-who-bought-all-products](https://github.com/Ritika0070/dsa/tree/master/1045-customers-who-bought-all-products) |
 | [1068-product-sales-analysis-i](https://github.com/Ritika0070/dsa/tree/master/1068-product-sales-analysis-i) |
