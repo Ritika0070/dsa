@@ -11,7 +11,7 @@ class Solution {
 
         int max = 0;
 
-        for (int num : set) {
+        for (int num : set) {// kyuki hashset avoid krna duplicate values ko is liye for loop array nhi hashset pe lgaya
             if (!set.contains(num - 1)) {
 
                 int curr = num;
