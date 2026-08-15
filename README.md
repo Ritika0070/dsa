@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/Ritika0070/dsa/tree/master/0595-big-countries) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Ritika0070/dsa/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0607-sales-person](https://github.com/Ritika0070/dsa/tree/master/0607-sales-person) |
+| [0620-not-boring-movies](https://github.com/Ritika0070/dsa/tree/master/0620-not-boring-movies) |
 | [1045-customers-who-bought-all-products](https://github.com/Ritika0070/dsa/tree/master/1045-customers-who-bought-all-products) |
 | [1068-product-sales-analysis-i](https://github.com/Ritika0070/dsa/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/Ritika0070/dsa/tree/master/1070-product-sales-analysis-iii) |
