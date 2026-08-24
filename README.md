@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ritika0070/dsa/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Ritika0070/dsa/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/Ritika0070/dsa/tree/master/0056-merge-intervals) |
 | [0128-longest-consecutive-sequence](https://github.com/Ritika0070/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0457-circular-array-loop](https://github.com/Ritika0070/dsa/tree/master/0457-circular-array-loop) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Ritika0070/dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Ritika0070/dsa/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/Ritika0070/dsa/tree/master/0056-merge-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Ritika0070/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Ritika0070/dsa/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Heap (Priority Queue)
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ritika0070/dsa/tree/master/0128-longest-consecutive-sequence) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Ritika0070/dsa/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
