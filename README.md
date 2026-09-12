@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Ritika0070/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Ritika0070/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0457-circular-array-loop](https://github.com/Ritika0070/dsa/tree/master/0457-circular-array-loop) |
+| [0567-permutation-in-string](https://github.com/Ritika0070/dsa/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Ritika0070/dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ritika0070/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2405-optimal-partition-of-string](https://github.com/Ritika0070/dsa/tree/master/2405-optimal-partition-of-string) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Ritika0070/dsa/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Ritika0070/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/Ritika0070/dsa/tree/master/0520-detect-capital) |
+| [0567-permutation-in-string](https://github.com/Ritika0070/dsa/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Ritika0070/dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ritika0070/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2405-optimal-partition-of-string](https://github.com/Ritika0070/dsa/tree/master/2405-optimal-partition-of-string) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Ritika0070/dsa/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Ritika0070/dsa/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Ritika0070/dsa/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ritika0070/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Two Pointers
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Ritika0070/dsa/tree/master/0202-happy-number) |
 | [0443-string-compression](https://github.com/Ritika0070/dsa/tree/master/0443-string-compression) |
 | [0457-circular-array-loop](https://github.com/Ritika0070/dsa/tree/master/0457-circular-array-loop) |
+| [0567-permutation-in-string](https://github.com/Ritika0070/dsa/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Ritika0070/dsa/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ritika0070/dsa/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ritika0070/dsa/tree/master/2161-partition-array-according-to-given-pivot) |
