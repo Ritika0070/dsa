@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ritika0070/dsa/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Ritika0070/dsa/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Ritika0070/dsa/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Ritika0070/dsa/tree/master/0056-merge-intervals) |
 | [0128-longest-consecutive-sequence](https://github.com/Ritika0070/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ritika0070/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Ritika0070/dsa/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Ritika0070/dsa/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Ritika0070/dsa/tree/master/0056-merge-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Ritika0070/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Ritika0070/dsa/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ritika0070/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Ritika0070/dsa/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Ritika0070/dsa/tree/master/0018-4sum) |
 | [0125-valid-palindrome](https://github.com/Ritika0070/dsa/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Ritika0070/dsa/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ritika0070/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
