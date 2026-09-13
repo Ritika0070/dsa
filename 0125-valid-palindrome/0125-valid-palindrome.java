@@ -3,17 +3,22 @@ class Solution {
         s=s.toLowerCase();
         StringBuilder sb = new StringBuilder();
         for(int i=0;i<s.length();i++){
-            char ch =s.charAt(i);
-            if(Character.isLetterOrDigit(ch))
-            sb.append(ch);
+            char ch=s.charAt(i);
+            if(Character.isLetterOrDigit(ch)){
+                sb.append(ch);
+            }else{
+                continue;
+            }
         }
-        s=sb.toString();
+        String st=sb.toString();
         int l=0;
-        int r=s.length()-1;
+        int r=st.length()-1;
         while(l<r){
-            if(s.charAt(l)!=s.charAt(r)) return false;
-            l++;
-            r--;
+            if(st.charAt(l)!=st.charAt(r)){
+                return false;
+            }
+                l++;
+                r--;
         }
         return true;
     }
