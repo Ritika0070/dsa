@@ -1,42 +1,43 @@
 class Solution {
     public boolean checkInclusion(String s1, String s2) {
-        int n=s1.length();
-        int m=s2.length();
-        HashMap<Character,Integer>map=new HashMap<>();
-        for(int i=0;i<n;i++){
-            char x=s1.charAt(i);
-            if(map.containsKey(x)){
-                map.put(x,map.get(x)+1);
-            }else{
-                map.put(x,1);
+      HashMap<Integer,Integer> map=new HashMap<>();
+      int n=s1.length();
+      int m=s2.length();
+      for(int i =0;i<n;i++){
+        int x=s1.charAt(i);
+        if(map.containsKey(x)){
+            map.put(x,map.get(x)+1);
+        }else{
+            map.put(x,1);
+        }
+      }
+      int c=map.size();
+      int i=0;
+      int j=0;
+      while(j<m){
+        int y=s2.charAt(j);
+        if(map.containsKey(y)){
+            map.put(y,map.get(y)-1);
+            if(map.get(y)==0){
+                c--;
             }
         }
-        int i=0;
-        int j=0;
-        int c=map.size();
-        while(j<m){
-            char ch=s2.charAt(j);
-            if(map.containsKey(ch)){
-                map.put(ch,map.get(ch)-1);
-                if(map.get(ch)==0){
-                    c--;
-                }
+        if(j-i+1==n){
+            if(c==0){
+                return true;
             }
-            if(j-i+1==n){
-                if(c==0){
-                    return true;
+            int l=s2.charAt(i);
+                if(map.containsKey(l)){
+                map.put(l,map.get(l)+1);
+                if(map.get(l)==1){
+                    c++;
                 }
-                char left=s2.charAt(i);
-                if(map.containsKey(left)){
-                map.put(left,map.get(left)+1);
-                    if(map.get(left)==1)
-                     c++;
-                   }
-                   i++;
+                
             }
-            j++;
-
-        }
-        return false;
+            i++;
+      }
+      j++;
+    }
+          return false;
     }
 }
