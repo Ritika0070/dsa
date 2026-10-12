@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ritika0070/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ritika0070/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Ritika0070/dsa/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Ritika0070/dsa/tree/master/0283-move-zeroes) |
 | [0457-circular-array-loop](https://github.com/Ritika0070/dsa/tree/master/0457-circular-array-loop) |
 | [0560-subarray-sum-equals-k](https://github.com/Ritika0070/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Ritika0070/dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Ritika0070/dsa/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ritika0070/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Ritika0070/dsa/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Ritika0070/dsa/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/Ritika0070/dsa/tree/master/0443-string-compression) |
 | [0457-circular-array-loop](https://github.com/Ritika0070/dsa/tree/master/0457-circular-array-loop) |
 | [0567-permutation-in-string](https://github.com/Ritika0070/dsa/tree/master/0567-permutation-in-string) |
