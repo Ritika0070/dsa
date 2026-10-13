@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Ritika0070/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0875-koko-eating-bananas](https://github.com/Ritika0070/dsa/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ritika0070/dsa/tree/master/1004-max-consecutive-ones-iii) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ritika0070/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Array
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Ritika0070/dsa/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Ritika0070/dsa/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ritika0070/dsa/tree/master/1004-max-consecutive-ones-iii) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ritika0070/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ritika0070/dsa/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Hash Table
 |  |
