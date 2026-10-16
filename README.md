@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Ritika0070/dsa/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ritika0070/dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ritika0070/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Ritika0070/dsa/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ritika0070/dsa/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Hash Table
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Ritika0070/dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0904-fruit-into-baskets](https://github.com/Ritika0070/dsa/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ritika0070/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Ritika0070/dsa/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2405-optimal-partition-of-string](https://github.com/Ritika0070/dsa/tree/master/2405-optimal-partition-of-string) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Ritika0070/dsa/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## String
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Ritika0070/dsa/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Ritika0070/dsa/tree/master/0056-merge-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Ritika0070/dsa/tree/master/0451-sort-characters-by-frequency) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Ritika0070/dsa/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Ritika0070/dsa/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Heap (Priority Queue)
 |  |
