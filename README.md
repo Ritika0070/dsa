@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1070-product-sales-analysis-iii](https://github.com/Ritika0070/dsa/tree/master/1070-product-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/Ritika0070/dsa/tree/master/1148-article-views-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/Ritika0070/dsa/tree/master/1174-immediate-food-delivery-ii) |
+| [1211-queries-quality-and-percentage](https://github.com/Ritika0070/dsa/tree/master/1211-queries-quality-and-percentage) |
 | [1321-restaurant-growth](https://github.com/Ritika0070/dsa/tree/master/1321-restaurant-growth) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Ritika0070/dsa/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/Ritika0070/dsa/tree/master/1341-movie-rating) |
