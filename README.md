@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/Ritika0070/dsa/tree/master/2351-first-letter-to-appear-twice) |
 | [2405-optimal-partition-of-string](https://github.com/Ritika0070/dsa/tree/master/2405-optimal-partition-of-string) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Ritika0070/dsa/tree/master/2506-count-pairs-of-similar-strings) |
+| [3110-score-of-a-string](https://github.com/Ritika0070/dsa/tree/master/3110-score-of-a-string) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Ritika0070/dsa/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3163-string-compression-iii](https://github.com/Ritika0070/dsa/tree/master/3163-string-compression-iii) |
 ## Sorting
