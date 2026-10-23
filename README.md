@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Ritika0070/dsa/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2404-most-frequent-even-element](https://github.com/Ritika0070/dsa/tree/master/2404-most-frequent-even-element) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Ritika0070/dsa/tree/master/2506-count-pairs-of-similar-strings) |
+| [2951-find-the-peaks](https://github.com/Ritika0070/dsa/tree/master/2951-find-the-peaks) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Ritika0070/dsa/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
@@ -270,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Ritika0070/dsa/tree/master/0387-first-unique-character-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [2951-find-the-peaks](https://github.com/Ritika0070/dsa/tree/master/2951-find-the-peaks) |
 <!---LeetCode Topics End-->
