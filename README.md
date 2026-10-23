@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Ritika0070/dsa/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ritika0070/dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1122-relative-sort-array](https://github.com/Ritika0070/dsa/tree/master/1122-relative-sort-array) |
+| [1207-unique-number-of-occurrences](https://github.com/Ritika0070/dsa/tree/master/1207-unique-number-of-occurrences) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ritika0070/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ritika0070/dsa/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ritika0070/dsa/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Ritika0070/dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0904-fruit-into-baskets](https://github.com/Ritika0070/dsa/tree/master/0904-fruit-into-baskets) |
 | [1122-relative-sort-array](https://github.com/Ritika0070/dsa/tree/master/1122-relative-sort-array) |
+| [1207-unique-number-of-occurrences](https://github.com/Ritika0070/dsa/tree/master/1207-unique-number-of-occurrences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ritika0070/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ritika0070/dsa/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ritika0070/dsa/tree/master/1684-count-the-number-of-consistent-strings) |
