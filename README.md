@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ritika0070/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ritika0070/dsa/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ritika0070/dsa/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1980-find-unique-binary-string](https://github.com/Ritika0070/dsa/tree/master/1980-find-unique-binary-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ritika0070/dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ritika0070/dsa/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Ritika0070/dsa/tree/master/2206-divide-array-into-equal-pairs) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ritika0070/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ritika0070/dsa/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ritika0070/dsa/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1980-find-unique-binary-string](https://github.com/Ritika0070/dsa/tree/master/1980-find-unique-binary-string) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Ritika0070/dsa/tree/master/2206-divide-array-into-equal-pairs) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Ritika0070/dsa/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ritika0070/dsa/tree/master/2351-first-letter-to-appear-twice) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Ritika0070/dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ritika0070/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ritika0070/dsa/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1980-find-unique-binary-string](https://github.com/Ritika0070/dsa/tree/master/1980-find-unique-binary-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/Ritika0070/dsa/tree/master/2278-percentage-of-letter-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ritika0070/dsa/tree/master/2351-first-letter-to-appear-twice) |
 | [2405-optimal-partition-of-string](https://github.com/Ritika0070/dsa/tree/master/2405-optimal-partition-of-string) |
@@ -299,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ritika0070/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
+## Backtracking
+|  |
+| ------- |
+| [1980-find-unique-binary-string](https://github.com/Ritika0070/dsa/tree/master/1980-find-unique-binary-string) |
 <!---LeetCode Topics End-->
