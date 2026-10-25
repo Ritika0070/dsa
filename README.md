@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Ritika0070/dsa/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Ritika0070/dsa/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2404-most-frequent-even-element](https://github.com/Ritika0070/dsa/tree/master/2404-most-frequent-even-element) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Ritika0070/dsa/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Ritika0070/dsa/tree/master/2506-count-pairs-of-similar-strings) |
 | [2951-find-the-peaks](https://github.com/Ritika0070/dsa/tree/master/2951-find-the-peaks) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Ritika0070/dsa/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ritika0070/dsa/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Ritika0070/dsa/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ritika0070/dsa/tree/master/2351-first-letter-to-appear-twice) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Ritika0070/dsa/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Ritika0070/dsa/tree/master/2506-count-pairs-of-similar-strings) |
 ## Counting Sort
 |  |
