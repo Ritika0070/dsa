@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-movie-rating](https://github.com/Ritika0070/dsa/tree/master/1341-movie-rating) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Ritika0070/dsa/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1683-invalid-tweets](https://github.com/Ritika0070/dsa/tree/master/1683-invalid-tweets) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/Ritika0070/dsa/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Ritika0070/dsa/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/Ritika0070/dsa/tree/master/1934-confirmation-rate) |
 | [3570-find-books-with-no-available-copies](https://github.com/Ritika0070/dsa/tree/master/3570-find-books-with-no-available-copies) |
