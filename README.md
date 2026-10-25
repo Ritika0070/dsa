@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Ritika0070/dsa/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Ritika0070/dsa/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Ritika0070/dsa/tree/master/0268-missing-number) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Ritika0070/dsa/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2544-alternating-digit-sum](https://github.com/Ritika0070/dsa/tree/master/2544-alternating-digit-sum) |
 ## Binary Search
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Ritika0070/dsa/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ritika0070/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ritika0070/dsa/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Ritika0070/dsa/tree/master/0268-missing-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ritika0070/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Ritika0070/dsa/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ritika0070/dsa/tree/master/1004-max-consecutive-ones-iii) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ritika0070/dsa/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ritika0070/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Ritika0070/dsa/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Ritika0070/dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ritika0070/dsa/tree/master/0283-move-zeroes) |
 | [0457-circular-array-loop](https://github.com/Ritika0070/dsa/tree/master/0457-circular-array-loop) |
 | [0560-subarray-sum-equals-k](https://github.com/Ritika0070/dsa/tree/master/0560-subarray-sum-equals-k) |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Ritika0070/dsa/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Ritika0070/dsa/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Ritika0070/dsa/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Ritika0070/dsa/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ritika0070/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ritika0070/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ritika0070/dsa/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -160,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Ritika0070/dsa/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Ritika0070/dsa/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Ritika0070/dsa/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Ritika0070/dsa/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Ritika0070/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [1122-relative-sort-array](https://github.com/Ritika0070/dsa/tree/master/1122-relative-sort-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ritika0070/dsa/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -255,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Ritika0070/dsa/tree/master/0268-missing-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ritika0070/dsa/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Ritika0070/dsa/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ritika0070/dsa/tree/master/2351-first-letter-to-appear-twice) |
