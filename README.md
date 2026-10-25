@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ritika0070/dsa/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ritika0070/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Ritika0070/dsa/tree/master/0238-product-of-array-except-self) |
+| [0260-single-number-iii](https://github.com/Ritika0070/dsa/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Ritika0070/dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ritika0070/dsa/tree/master/0283-move-zeroes) |
 | [0457-circular-array-loop](https://github.com/Ritika0070/dsa/tree/master/0457-circular-array-loop) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Ritika0070/dsa/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/Ritika0070/dsa/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Ritika0070/dsa/tree/master/0268-missing-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ritika0070/dsa/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Ritika0070/dsa/tree/master/2206-divide-array-into-equal-pairs) |
