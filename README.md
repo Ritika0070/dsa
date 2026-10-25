@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/Ritika0070/dsa/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Ritika0070/dsa/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/Ritika0070/dsa/tree/master/1934-confirmation-rate) |
+| [3570-find-books-with-no-available-copies](https://github.com/Ritika0070/dsa/tree/master/3570-find-books-with-no-available-copies) |
 ## Math
 |  |
 | ------- |
