@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Ritika0070/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Ritika0070/dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Ritika0070/dsa/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/Ritika0070/dsa/tree/master/0645-set-mismatch) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ritika0070/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Ritika0070/dsa/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Ritika0070/dsa/tree/master/0904-fruit-into-baskets) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Ritika0070/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Ritika0070/dsa/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Ritika0070/dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0645-set-mismatch](https://github.com/Ritika0070/dsa/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/Ritika0070/dsa/tree/master/0904-fruit-into-baskets) |
 | [1122-relative-sort-array](https://github.com/Ritika0070/dsa/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Ritika0070/dsa/tree/master/1207-unique-number-of-occurrences) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ritika0070/dsa/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Ritika0070/dsa/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Ritika0070/dsa/tree/master/0451-sort-characters-by-frequency) |
+| [0645-set-mismatch](https://github.com/Ritika0070/dsa/tree/master/0645-set-mismatch) |
 | [1122-relative-sort-array](https://github.com/Ritika0070/dsa/tree/master/1122-relative-sort-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ritika0070/dsa/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ritika0070/dsa/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Ritika0070/dsa/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Ritika0070/dsa/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Ritika0070/dsa/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/Ritika0070/dsa/tree/master/0645-set-mismatch) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ritika0070/dsa/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Ritika0070/dsa/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ritika0070/dsa/tree/master/2351-first-letter-to-appear-twice) |
