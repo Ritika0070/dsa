@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ritika0070/dsa/tree/master/0268-missing-number) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Ritika0070/dsa/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2544-alternating-digit-sum](https://github.com/Ritika0070/dsa/tree/master/2544-alternating-digit-sum) |
+| [2843-count-symmetric-integers](https://github.com/Ritika0070/dsa/tree/master/2843-count-symmetric-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2843-count-symmetric-integers](https://github.com/Ritika0070/dsa/tree/master/2843-count-symmetric-integers) |
 | [2951-find-the-peaks](https://github.com/Ritika0070/dsa/tree/master/2951-find-the-peaks) |
 ## Ternary Search
 |  |
