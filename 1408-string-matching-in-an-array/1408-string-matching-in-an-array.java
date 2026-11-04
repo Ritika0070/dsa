@@ -6,9 +6,9 @@ class Solution {
             String s = w[i];
             for (int j = 0; j < w.length; j++) {
                 String r = w[j];
-                if (i!=j && r.contains(s)) {
-                    list.add(s);
-                    break;
+                if (i!=j && s.contains(r) && !list.contains(r)){
+                    list.add(r);
+                 
                 }
             }
         }
