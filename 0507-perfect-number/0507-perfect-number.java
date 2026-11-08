@@ -7,7 +7,7 @@ class Solution {
             }
         }
         if(sum==num){
-         return true;
+         return true; 
         }
         return false;
     }
