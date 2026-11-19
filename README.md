@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Ritika0070/dsa/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Ritika0070/dsa/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Ritika0070/dsa/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Ritika0070/dsa/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Ritika0070/dsa/tree/master/0507-perfect-number) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Ritika0070/dsa/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ritika0070/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Ritika0070/dsa/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Ritika0070/dsa/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ritika0070/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Ritika0070/dsa/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Ritika0070/dsa/tree/master/0260-single-number-iii) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Ritika0070/dsa/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Ritika0070/dsa/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ritika0070/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Ritika0070/dsa/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Ritika0070/dsa/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Ritika0070/dsa/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/Ritika0070/dsa/tree/master/0443-string-compression) |
